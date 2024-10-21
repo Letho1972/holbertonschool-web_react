@@ -1,4 +1,4 @@
-React intro
+# React intro
 
 Resources
 Read or watch:
